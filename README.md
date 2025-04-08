@@ -1,0 +1,2 @@
+# bluecoats_measurement_response_program_ops
+ Bluecoats is a closed-loop, human-centric measurement and response Initiative coordinating the training, resources, and operational mechanisms needed to empower staff and management to systematically diagnose issues and develop custom solutions that improve wellbeing, streamline operations, stabilize staff and patient populations, and, ultimately, bolster the financial health of the organization. 

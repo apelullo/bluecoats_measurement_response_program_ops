@@ -1,0 +1,101 @@
+,question_id,question_category,question_text,fac_pct_pos,fac_percentile,group_pct_pos,group_percentile,num_respondents,survey_name,survey_date,location,work_setting,position,report_type,benchmark_date,group_fac_pct_pos_diff
+0,q0,Improvement Readiness,"In this work setting, the learning environment effectively fixes defects to improve the quality of what we do.",68.0,56.0,51.0,19.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-17.0
+1,q1,Improvement Readiness,"In this work setting, the learning environment allows us to pause and reflect on what we do well.",65.0,43.0,36.0,7.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-29.0
+2,q2,Local Leadership,"In this work setting, local management regularly makes time to provide positive feedback to me about how I am doing.",65.0,54.0,45.0,13.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-20.0
+3,q3,Local Leadership,"In this work setting, local management regularly makes time to pause and reflect with me about my work.",61.0,49.0,33.0,7.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-28.0
+4,q4,Burnout Climate,People in this work setting are burned out from their work.,19.0,12.0,1.0,99.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-18.0
+5,q5,Personal Burnout,I feel burned out from my work.,32.0,4.0,11.0,99.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-21.0
+6,q6,Emotional Thriving,I have a chance to use my strengths every day at work.,75.0,,57.0,,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-18.0
+7,q7,Teamwork,"In this work setting, it is difficult to speak up if I perceive a problem with patient care.",68.0,68.0,54.0,20.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-14.0
+8,q8,Teamwork,Dealing with difficult colleagues is consistently a challenging part of my job.,53.0,78.0,33.0,27.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-20.0
+9,q9,Teamwork,Communication breakdowns are common when this work setting interacts with other work settings.,46.0,85.0,16.0,7.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-30.0
+10,q10,Safety Climate,I would feel safe being treated here as a patient.,81.0,83.0,58.0,17.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-23.0
+11,q11,Safety Climate,"In this work setting, it is difficult to discuss errors.",65.0,76.0,47.0,20.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-18.0
+12,q12,Safety Climate,The values of facility leadership are the same values that people in this work setting think are important.,57.0,59.0,28.0,9.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-29.0
+13,q13,Growth Opportunities,"With respect to the growth opportunities in this work setting, I have the feeling that I can achieve something.",66.0,23.0,47.0,8.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-19.0
+14,q14,Job Certainty,"With respect to job-related uncertainty about the future in this work setting, I feel certain that I will keep my current job in the next year.",81.0,87.0,72.0,37.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-9.0
+15,q15,Decision Making,With respect to the participation in decision making that I experience here I have a direct influence on my organization's decisions.,40.0,79.0,19.0,18.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-21.0
+16,q16,Advancement,With respect to advancement in this organization I have opportunities to advance through training courses.,62.0,99.0,60.0,85.0,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-2.0
+17,q17,Physical Safety,I feel safe from crime or violence in my (daily) workspace.,75.0,,23.0,,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,-52.0
+18,q18,GME Questions,Faculty in my program participates in educational conferences.,69.0,,,,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,
+19,q19,GME Questions,I feel comfortable speaking up if I am feeling tired while on duty.,25.0,,,,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,
+20,q20,GME Questions,My Program Director is an effective leader.,64.0,,,,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,
+21,q21,GME Questions,I am satisfied with the mentoring I receive.,51.0,,,,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,
+22,q22,GME Questions,The curriculum is of high educational value.,66.0,,,,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,
+23,q23,GME Questions,Faculty in my program are effective teachers.,76.0,,,,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,
+24,q24,GME Questions,I am satisfied with the feedback I have received.,46.0,,,,57.0,score,20201201,PPMC,er-staff,all,summary,20200901,
+1125,q0,Improvement Readiness,"In this work setting, the learning environment effectively fixes defects to improve the quality of what we do.",68.0,56.0,41.0,10.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-27.0
+1126,q1,Improvement Readiness,"In this work setting, the learning environment allows us to pause and reflect on what we do well.",65.0,43.0,28.0,3.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-37.0
+1127,q2,Local Leadership,"In this work setting, local management regularly makes time to provide positive feedback to me about how I am doing.",65.0,54.0,44.0,12.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-21.0
+1128,q3,Local Leadership,"In this work setting, local management regularly makes time to pause and reflect with me about my work.",61.0,49.0,29.0,5.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-32.0
+1129,q4,Burnout Climate,People in this work setting are burned out from their work.,19.0,12.0,0.0,99.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-19.0
+1130,q5,Personal Burnout,I feel burned out from my work.,32.0,4.0,5.0,99.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-27.0
+1131,q6,Emotional Thriving,I have a chance to use my strengths every day at work.,75.0,,51.0,,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-24.0
+1132,q7,Teamwork,"In this work setting, it is difficult to speak up if I perceive a problem with patient care.",68.0,68.0,49.0,13.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-19.0
+1133,q8,Teamwork,Dealing with difficult colleagues is consistently a challenging part of my job.,53.0,78.0,24.0,13.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-29.0
+1134,q9,Teamwork,Communication breakdowns are common when this work setting interacts with other work settings.,46.0,85.0,12.0,5.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-34.0
+1135,q10,Safety Climate,I would feel safe being treated here as a patient.,81.0,83.0,51.0,12.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-30.0
+1136,q11,Safety Climate,"In this work setting, it is difficult to discuss errors.",65.0,76.0,37.0,8.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-28.0
+1137,q12,Safety Climate,The values of facility leadership are the same values that people in this work setting think are important.,57.0,59.0,20.0,5.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-37.0
+1138,q13,Growth Opportunities,"With respect to the growth opportunities in this work setting, I have the feeling that I can achieve something.",66.0,23.0,39.0,4.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-27.0
+1139,q14,Job Certainty,"With respect to job-related uncertainty about the future in this work setting, I feel certain that I will keep my current job in the next year.",81.0,87.0,63.0,19.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-18.0
+1140,q15,Decision Making,With respect to the participation in decision making that I experience here I have a direct influence on my organization's decisions.,40.0,79.0,12.0,8.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-28.0
+1141,q16,Advancement,With respect to advancement in this organization I have opportunities to advance through training courses.,62.0,99.0,54.0,75.0,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-8.0
+1142,q17,Physical Safety,I feel safe from crime or violence in my (daily) workspace.,75.0,,7.0,,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,-68.0
+1143,q18,GME Questions,Faculty in my program participates in educational conferences.,69.0,,,,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,
+1144,q19,GME Questions,I feel comfortable speaking up if I am feeling tired while on duty.,25.0,,,,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,
+1145,q20,GME Questions,My Program Director is an effective leader.,64.0,,,,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,
+1146,q21,GME Questions,I am satisfied with the mentoring I receive.,51.0,,,,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,
+1147,q22,GME Questions,The curriculum is of high educational value.,66.0,,,,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,
+1148,q23,GME Questions,Faculty in my program are effective teachers.,76.0,,,,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,
+1149,q24,GME Questions,I am satisfied with the feedback I have received.,46.0,,,,41.0,score,20201201,PPMC,er-staff,nurse,summary,20200901,
+1675,q0,Improvement Readiness,"In this work setting, the learning environment effectively fixes defects to improve the quality of what we do.",68.0,56.0,100.0,99.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,32.0
+1676,q1,Improvement Readiness,"In this work setting, the learning environment allows us to pause and reflect on what we do well.",65.0,43.0,71.0,54.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,6.0
+1677,q2,Local Leadership,"In this work setting, local management regularly makes time to provide positive feedback to me about how I am doing.",65.0,54.0,71.0,54.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,6.0
+1678,q3,Local Leadership,"In this work setting, local management regularly makes time to pause and reflect with me about my work.",61.0,49.0,57.0,33.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,-4.0
+1679,q4,Burnout Climate,People in this work setting are burned out from their work.,19.0,12.0,0.0,4.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,-19.0
+1680,q5,Personal Burnout,I feel burned out from my work.,32.0,4.0,29.0,9.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,-3.0
+1681,q6,Emotional Thriving,I have a chance to use my strengths every day at work.,75.0,,86.0,,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,11.0
+1682,q7,Teamwork,"In this work setting, it is difficult to speak up if I perceive a problem with patient care.",68.0,68.0,86.0,87.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,18.0
+1683,q8,Teamwork,Dealing with difficult colleagues is consistently a challenging part of my job.,53.0,78.0,43.0,45.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,-10.0
+1684,q9,Teamwork,Communication breakdowns are common when this work setting interacts with other work settings.,46.0,85.0,14.0,6.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,-32.0
+1685,q10,Safety Climate,I would feel safe being treated here as a patient.,81.0,83.0,71.0,37.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,-10.0
+1686,q11,Safety Climate,"In this work setting, it is difficult to discuss errors.",65.0,76.0,86.0,90.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,21.0
+1687,q12,Safety Climate,The values of facility leadership are the same values that people in this work setting think are important.,57.0,59.0,43.0,26.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,-14.0
+1688,q13,Growth Opportunities,"With respect to the growth opportunities in this work setting, I have the feeling that I can achieve something.",66.0,23.0,86.0,81.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,20.0
+1689,q14,Job Certainty,"With respect to job-related uncertainty about the future in this work setting, I feel certain that I will keep my current job in the next year.",81.0,87.0,100.0,99.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,19.0
+1690,q15,Decision Making,With respect to the participation in decision making that I experience here I have a direct influence on my organization's decisions.,40.0,79.0,57.0,87.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,17.0
+1691,q16,Advancement,With respect to advancement in this organization I have opportunities to advance through training courses.,62.0,99.0,100.0,99.0,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,38.0
+1692,q17,Physical Safety,I feel safe from crime or violence in my (daily) workspace.,75.0,,71.0,,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,-4.0
+1693,q18,GME Questions,Faculty in my program participates in educational conferences.,69.0,,,,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,
+1694,q19,GME Questions,I feel comfortable speaking up if I am feeling tired while on duty.,25.0,,,,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,
+1695,q20,GME Questions,My Program Director is an effective leader.,64.0,,,,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,
+1696,q21,GME Questions,I am satisfied with the mentoring I receive.,51.0,,,,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,
+1697,q22,GME Questions,The curriculum is of high educational value.,66.0,,,,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,
+1698,q23,GME Questions,Faculty in my program are effective teachers.,76.0,,,,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,
+1699,q24,GME Questions,I am satisfied with the feedback I have received.,46.0,,,,7.0,score,20201201,PPMC,er-staff,physician-resident-fellow-attending,summary,20200901,
+1925,q0,Improvement Readiness,"In this work setting, the learning environment effectively fixes defects to improve the quality of what we do.",68.0,56.0,56.0,24.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-12.0
+1926,q1,Improvement Readiness,"In this work setting, the learning environment allows us to pause and reflect on what we do well.",65.0,43.0,50.0,19.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-15.0
+1927,q2,Local Leadership,"In this work setting, local management regularly makes time to provide positive feedback to me about how I am doing.",65.0,54.0,25.0,3.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-40.0
+1928,q3,Local Leadership,"In this work setting, local management regularly makes time to pause and reflect with me about my work.",61.0,49.0,33.0,7.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-28.0
+1929,q4,Burnout Climate,People in this work setting are burned out from their work.,19.0,12.0,11.0,3.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-8.0
+1930,q5,Personal Burnout,I feel burned out from my work.,32.0,4.0,22.0,11.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-10.0
+1931,q6,Emotional Thriving,I have a chance to use my strengths every day at work.,75.0,,63.0,,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-12.0
+1932,q7,Teamwork,"In this work setting, it is difficult to speak up if I perceive a problem with patient care.",68.0,68.0,56.0,23.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-12.0
+1933,q8,Teamwork,Dealing with difficult colleagues is consistently a challenging part of my job.,53.0,78.0,67.0,84.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,14.0
+1934,q9,Teamwork,Communication breakdowns are common when this work setting interacts with other work settings.,46.0,85.0,33.0,37.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-13.0
+1935,q10,Safety Climate,I would feel safe being treated here as a patient.,81.0,83.0,78.0,49.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-3.0
+1936,q11,Safety Climate,"In this work setting, it is difficult to discuss errors.",65.0,76.0,67.0,60.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,2.0
+1937,q12,Safety Climate,The values of facility leadership are the same values that people in this work setting think are important.,57.0,59.0,56.0,48.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-1.0
+1938,q13,Growth Opportunities,"With respect to the growth opportunities in this work setting, I have the feeling that I can achieve something.",66.0,23.0,56.0,17.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-10.0
+1939,q14,Job Certainty,"With respect to job-related uncertainty about the future in this work setting, I feel certain that I will keep my current job in the next year.",81.0,87.0,89.0,81.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,8.0
+1940,q15,Decision Making,With respect to the participation in decision making that I experience here I have a direct influence on my organization's decisions.,40.0,79.0,22.0,25.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-18.0
+1941,q16,Advancement,With respect to advancement in this organization I have opportunities to advance through training courses.,62.0,99.0,56.0,78.0,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-6.0
+1942,q17,Physical Safety,I feel safe from crime or violence in my (daily) workspace.,75.0,,56.0,,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,-19.0
+1943,q18,GME Questions,Faculty in my program participates in educational conferences.,69.0,,,,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,
+1944,q19,GME Questions,I feel comfortable speaking up if I am feeling tired while on duty.,25.0,,,,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,
+1945,q20,GME Questions,My Program Director is an effective leader.,64.0,,,,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,
+1946,q21,GME Questions,I am satisfied with the mentoring I receive.,51.0,,,,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,
+1947,q22,GME Questions,The curriculum is of high educational value.,66.0,,,,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,
+1948,q23,GME Questions,Faculty in my program are effective teachers.,76.0,,,,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,
+1949,q24,GME Questions,I am satisfied with the feedback I have received.,46.0,,,,9.0,score,20201201,PPMC,er-staff,remainder,summary,20200901,

@@ -13,27 +13,31 @@
 
 ## Select Program Outcomes
 
----
-
 ### Program Expansion - Implementation Architecture Proposal
 ![Implementation Architecture](resources/phase2_proposed_implementation_architecture.png)
 
 ---
 
 ### Opportunity Discovery - SCORE Survey
+* Difference in Average Percent Positive Responses: Work Settings vs Entity by SCORE Question
 ![Difference in Average Percent Positive Responses: Work Settings vs Entity by SCORE Question](output/figures/score_ws_qid_pct_pos_20230328.png)
+* Difference in Average Percent Positive Responses: Nurse Work Settings vs Entity by SCORE Question
 ![Difference in Average Percent Positive Responses: Nurse Work Settings vs Entity by SCORE Question](output/figures/score_nurse_qid_pct_pos_20230330.png)
+* Difference in Average Percent Positive Responses: ER Positions vs Entity by SCORE Question
 ![Difference in Average Percent Positive Responses: ER Positions vs Entity by SCORE Question](output/figures/score_er_qid_pct_pos_20230330.png)
 
 ---
 
 ### Problem-Space Characterization - Employee Engagement
+* Employee Engagement: Survey 1
 ![Employee Engagement: Survey 1](output/figures/engagement_survey1_results_20230417.png)
+* Employee Engagement: Survey 1
 ![Employee Engagement: Survey 2](output/figures/engagement_survey2_results_20230429.png)
 
 ---
 
 ### Project Selection - Budgeting Exercise
+* Budgeting Exercise Results: Presby ED
 ![Budgeting Exercise Results: Presby ED](output/figures/budgeting_exercise_results_20230510.png)
 
 ---
@@ -61,9 +65,13 @@
 
 ### Program Evaluation - Hope, Trust, and Belonging
 * The staff-centered, data-driven approach of the Bluecoats Program was a momumental success that is clearly demonstrated both in the final program evaluation report and the enthusiastic expansion of the program to other departments across the health system:
-![ED Staff Feelings Stratified by Bluecoats Actions](output/figures/feelings_actions_20230824.png)
-![Bluecoats Actions Stratified by ED Staff Feelings](output/figures/actions_feelings_20230824.png)
-![Clustermap of Bluecoats Actions Correlated with ED Staff Feelings](output/figures/actions_feelings_corr_20230824.pdf)
-* **Note**: The final clustermap visualizing the *correlation between Bluecoats actions and ED staff feelings* naturally structured the Bluecoats actions - engaging, communicating, advocating, and taking-action - *in the order that they were executed throughout the program lifecycle!* What's more, you can also see a corresponding, positively-sloped correlation structure mapping sequential Bluecoats actions to increasingly powerful single and composite feelings experienced by the ED staff! Oh, and if you look carefully at *any* of the three figures above, we have reinforced, yet again, that *communication builds trust*. 
 
+* ED Staff Feelings Stratified by Bluecoats Actions
+![ED Staff Feelings Stratified by Bluecoats Actions](output/figures/feelings_actions_20230824.png)
+* Bluecoats Actions Stratified by ED Staff Feelings
+![Bluecoats Actions Stratified by ED Staff Feelings](output/figures/actions_feelings_20230824.png)
+* Clustermap of Bluecoats Actions Correlated with ED Staff Feelings
+![Clustermap of Bluecoats Actions Correlated with ED Staff Feelings](output/figures/actions_feelings_corr_20230824.pdf)
+
+* **Note**: The final clustermap visualizing the *correlation between Bluecoats actions and ED staff feelings* naturally structured the Bluecoats actions - engaging, communicating, advocating, and taking-action - *in the order that they were executed throughout the program lifecycle!* What's more, you can also see a corresponding, positively-sloped correlation structure mapping sequential Bluecoats actions to increasingly powerful single and composite feelings experienced by the ED staff! Oh, and if you look carefully at *any* of the three figures above, we have reinforced, yet again, that *communication builds trust*. 
 

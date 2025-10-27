@@ -71,7 +71,7 @@
 * Bluecoats Actions Stratified by ED Staff Feelings
 ![Bluecoats Actions Stratified by ED Staff Feelings](output/figures/actions_feelings_20230824.png)
 * Clustermap of Bluecoats Actions Correlated with ED Staff Feelings
-![Clustermap of Bluecoats Actions Correlated with ED Staff Feelings](output/figures/actions_feelings_corr_20230824.pdf)
+![Clustermap of Bluecoats Actions Correlated with ED Staff Feelings](output/figures/actions_feelings_corr_20230824.png)
 
 * **Note**: The final clustermap visualizing the *correlation between Bluecoats actions and ED staff feelings* naturally structured the Bluecoats actions - engaging, communicating, advocating, and taking-action - *in the order that they were executed throughout the program lifecycle!* What's more, you can also see a corresponding, positively-sloped correlation structure mapping sequential Bluecoats actions to increasingly powerful single and composite feelings experienced by the ED staff! Oh, and if you look carefully at *any* of the three figures above, we have reinforced, yet again, that *communication builds trust*. 
 
